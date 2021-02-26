@@ -1,0 +1,16 @@
+/home/jeffreyj/RiderProjects/Kampİntro/DegerveReferansTipler/bin/Debug/net5.0/DegerveReferansTipler
+/home/jeffreyj/RiderProjects/Kampİntro/DegerveReferansTipler/bin/Debug/net5.0/DegerveReferansTipler.deps.json
+/home/jeffreyj/RiderProjects/Kampİntro/DegerveReferansTipler/bin/Debug/net5.0/DegerveReferansTipler.runtimeconfig.json
+/home/jeffreyj/RiderProjects/Kampİntro/DegerveReferansTipler/bin/Debug/net5.0/DegerveReferansTipler.runtimeconfig.dev.json
+/home/jeffreyj/RiderProjects/Kampİntro/DegerveReferansTipler/bin/Debug/net5.0/DegerveReferansTipler.dll
+/home/jeffreyj/RiderProjects/Kampİntro/DegerveReferansTipler/bin/Debug/net5.0/ref/DegerveReferansTipler.dll
+/home/jeffreyj/RiderProjects/Kampİntro/DegerveReferansTipler/bin/Debug/net5.0/DegerveReferansTipler.pdb
+/home/jeffreyj/RiderProjects/Kampİntro/DegerveReferansTipler/obj/Debug/net5.0/DegerveReferansTipler.csprojAssemblyReference.cache
+/home/jeffreyj/RiderProjects/Kampİntro/DegerveReferansTipler/obj/Debug/net5.0/DegerveReferansTipler.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeffreyj/RiderProjects/Kampİntro/DegerveReferansTipler/obj/Debug/net5.0/DegerveReferansTipler.AssemblyInfoInputs.cache
+/home/jeffreyj/RiderProjects/Kampİntro/DegerveReferansTipler/obj/Debug/net5.0/DegerveReferansTipler.AssemblyInfo.cs
+/home/jeffreyj/RiderProjects/Kampİntro/DegerveReferansTipler/obj/Debug/net5.0/DegerveReferansTipler.csproj.CoreCompileInputs.cache
+/home/jeffreyj/RiderProjects/Kampİntro/DegerveReferansTipler/obj/Debug/net5.0/DegerveReferansTipler.dll
+/home/jeffreyj/RiderProjects/Kampİntro/DegerveReferansTipler/obj/Debug/net5.0/ref/DegerveReferansTipler.dll
+/home/jeffreyj/RiderProjects/Kampİntro/DegerveReferansTipler/obj/Debug/net5.0/DegerveReferansTipler.pdb
+/home/jeffreyj/RiderProjects/Kampİntro/DegerveReferansTipler/obj/Debug/net5.0/DegerveReferansTipler.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/jeffreyj/RiderProjects/Kampİntro/Loops/bin/Debug/net5.0/Loops
+/home/jeffreyj/RiderProjects/Kampİntro/Loops/bin/Debug/net5.0/Loops.deps.json
+/home/jeffreyj/RiderProjects/Kampİntro/Loops/bin/Debug/net5.0/Loops.runtimeconfig.json
+/home/jeffreyj/RiderProjects/Kampİntro/Loops/bin/Debug/net5.0/Loops.runtimeconfig.dev.json
+/home/jeffreyj/RiderProjects/Kampİntro/Loops/bin/Debug/net5.0/Loops.dll
+/home/jeffreyj/RiderProjects/Kampİntro/Loops/bin/Debug/net5.0/ref/Loops.dll
+/home/jeffreyj/RiderProjects/Kampİntro/Loops/bin/Debug/net5.0/Loops.pdb
+/home/jeffreyj/RiderProjects/Kampİntro/Loops/obj/Debug/net5.0/Loops.csprojAssemblyReference.cache
+/home/jeffreyj/RiderProjects/Kampİntro/Loops/obj/Debug/net5.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeffreyj/RiderProjects/Kampİntro/Loops/obj/Debug/net5.0/Loops.AssemblyInfoInputs.cache
+/home/jeffreyj/RiderProjects/Kampİntro/Loops/obj/Debug/net5.0/Loops.AssemblyInfo.cs
+/home/jeffreyj/RiderProjects/Kampİntro/Loops/obj/Debug/net5.0/Loops.csproj.CoreCompileInputs.cache
+/home/jeffreyj/RiderProjects/Kampİntro/Loops/obj/Debug/net5.0/Loops.dll
+/home/jeffreyj/RiderProjects/Kampİntro/Loops/obj/Debug/net5.0/ref/Loops.dll
+/home/jeffreyj/RiderProjects/Kampİntro/Loops/obj/Debug/net5.0/Loops.pdb
+/home/jeffreyj/RiderProjects/Kampİntro/Loops/obj/Debug/net5.0/Loops.genruntimeconfig.cache

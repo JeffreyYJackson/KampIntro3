@@ -1,0 +1,16 @@
+/home/jeffreyj/RiderProjects/Kampİntro/Kampİntro/bin/Debug/net5.0/Kampİntro
+/home/jeffreyj/RiderProjects/Kampİntro/Kampİntro/bin/Debug/net5.0/Kampİntro.deps.json
+/home/jeffreyj/RiderProjects/Kampİntro/Kampİntro/bin/Debug/net5.0/Kampİntro.runtimeconfig.json
+/home/jeffreyj/RiderProjects/Kampİntro/Kampİntro/bin/Debug/net5.0/Kampİntro.runtimeconfig.dev.json
+/home/jeffreyj/RiderProjects/Kampİntro/Kampİntro/bin/Debug/net5.0/Kampİntro.dll
+/home/jeffreyj/RiderProjects/Kampİntro/Kampİntro/bin/Debug/net5.0/ref/Kampİntro.dll
+/home/jeffreyj/RiderProjects/Kampİntro/Kampİntro/bin/Debug/net5.0/Kampİntro.pdb
+/home/jeffreyj/RiderProjects/Kampİntro/Kampİntro/obj/Debug/net5.0/Kampİntro.csprojAssemblyReference.cache
+/home/jeffreyj/RiderProjects/Kampİntro/Kampİntro/obj/Debug/net5.0/Kampİntro.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeffreyj/RiderProjects/Kampİntro/Kampİntro/obj/Debug/net5.0/Kampİntro.AssemblyInfoInputs.cache
+/home/jeffreyj/RiderProjects/Kampİntro/Kampİntro/obj/Debug/net5.0/Kampİntro.AssemblyInfo.cs
+/home/jeffreyj/RiderProjects/Kampİntro/Kampİntro/obj/Debug/net5.0/Kampİntro.csproj.CoreCompileInputs.cache
+/home/jeffreyj/RiderProjects/Kampİntro/Kampİntro/obj/Debug/net5.0/Kampİntro.dll
+/home/jeffreyj/RiderProjects/Kampİntro/Kampİntro/obj/Debug/net5.0/ref/Kampİntro.dll
+/home/jeffreyj/RiderProjects/Kampİntro/Kampİntro/obj/Debug/net5.0/Kampİntro.pdb
+/home/jeffreyj/RiderProjects/Kampİntro/Kampİntro/obj/Debug/net5.0/Kampİntro.genruntimeconfig.cache

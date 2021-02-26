@@ -1,0 +1,16 @@
+/home/jeffreyj/RiderProjects/Kampİntro/Methods/bin/Debug/net5.0/Methods
+/home/jeffreyj/RiderProjects/Kampİntro/Methods/bin/Debug/net5.0/Methods.deps.json
+/home/jeffreyj/RiderProjects/Kampİntro/Methods/bin/Debug/net5.0/Methods.runtimeconfig.json
+/home/jeffreyj/RiderProjects/Kampİntro/Methods/bin/Debug/net5.0/Methods.runtimeconfig.dev.json
+/home/jeffreyj/RiderProjects/Kampİntro/Methods/bin/Debug/net5.0/Methods.dll
+/home/jeffreyj/RiderProjects/Kampİntro/Methods/bin/Debug/net5.0/ref/Methods.dll
+/home/jeffreyj/RiderProjects/Kampİntro/Methods/bin/Debug/net5.0/Methods.pdb
+/home/jeffreyj/RiderProjects/Kampİntro/Methods/obj/Debug/net5.0/Methods.csprojAssemblyReference.cache
+/home/jeffreyj/RiderProjects/Kampİntro/Methods/obj/Debug/net5.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeffreyj/RiderProjects/Kampİntro/Methods/obj/Debug/net5.0/Methods.AssemblyInfoInputs.cache
+/home/jeffreyj/RiderProjects/Kampİntro/Methods/obj/Debug/net5.0/Methods.AssemblyInfo.cs
+/home/jeffreyj/RiderProjects/Kampİntro/Methods/obj/Debug/net5.0/Methods.csproj.CoreCompileInputs.cache
+/home/jeffreyj/RiderProjects/Kampİntro/Methods/obj/Debug/net5.0/Methods.dll
+/home/jeffreyj/RiderProjects/Kampİntro/Methods/obj/Debug/net5.0/ref/Methods.dll
+/home/jeffreyj/RiderProjects/Kampİntro/Methods/obj/Debug/net5.0/Methods.pdb
+/home/jeffreyj/RiderProjects/Kampİntro/Methods/obj/Debug/net5.0/Methods.genruntimeconfig.cache
