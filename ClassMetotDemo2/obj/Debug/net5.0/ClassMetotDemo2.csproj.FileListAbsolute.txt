@@ -1,0 +1,16 @@
+/home/jeffreyj/RiderProjects/Kampİntro/ClassMetotDemo2/obj/Debug/net5.0/ClassMetotDemo2.csprojAssemblyReference.cache
+/home/jeffreyj/RiderProjects/Kampİntro/ClassMetotDemo2/obj/Debug/net5.0/ClassMetotDemo2.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeffreyj/RiderProjects/Kampİntro/ClassMetotDemo2/obj/Debug/net5.0/ClassMetotDemo2.AssemblyInfoInputs.cache
+/home/jeffreyj/RiderProjects/Kampİntro/ClassMetotDemo2/obj/Debug/net5.0/ClassMetotDemo2.AssemblyInfo.cs
+/home/jeffreyj/RiderProjects/Kampİntro/ClassMetotDemo2/obj/Debug/net5.0/ClassMetotDemo2.csproj.CoreCompileInputs.cache
+/home/jeffreyj/RiderProjects/Kampİntro/ClassMetotDemo2/bin/Debug/net5.0/ClassMetotDemo2
+/home/jeffreyj/RiderProjects/Kampİntro/ClassMetotDemo2/bin/Debug/net5.0/ClassMetotDemo2.deps.json
+/home/jeffreyj/RiderProjects/Kampİntro/ClassMetotDemo2/bin/Debug/net5.0/ClassMetotDemo2.runtimeconfig.json
+/home/jeffreyj/RiderProjects/Kampİntro/ClassMetotDemo2/bin/Debug/net5.0/ClassMetotDemo2.runtimeconfig.dev.json
+/home/jeffreyj/RiderProjects/Kampİntro/ClassMetotDemo2/bin/Debug/net5.0/ClassMetotDemo2.dll
+/home/jeffreyj/RiderProjects/Kampİntro/ClassMetotDemo2/bin/Debug/net5.0/ref/ClassMetotDemo2.dll
+/home/jeffreyj/RiderProjects/Kampİntro/ClassMetotDemo2/bin/Debug/net5.0/ClassMetotDemo2.pdb
+/home/jeffreyj/RiderProjects/Kampİntro/ClassMetotDemo2/obj/Debug/net5.0/ClassMetotDemo2.dll
+/home/jeffreyj/RiderProjects/Kampİntro/ClassMetotDemo2/obj/Debug/net5.0/ref/ClassMetotDemo2.dll
+/home/jeffreyj/RiderProjects/Kampİntro/ClassMetotDemo2/obj/Debug/net5.0/ClassMetotDemo2.pdb
+/home/jeffreyj/RiderProjects/Kampİntro/ClassMetotDemo2/obj/Debug/net5.0/ClassMetotDemo2.genruntimeconfig.cache
