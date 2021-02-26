@@ -1,0 +1,16 @@
+/home/jeffreyj/RiderProjects/Kampİntro/Collections/bin/Debug/net5.0/Collections
+/home/jeffreyj/RiderProjects/Kampİntro/Collections/bin/Debug/net5.0/Collections.deps.json
+/home/jeffreyj/RiderProjects/Kampİntro/Collections/bin/Debug/net5.0/Collections.runtimeconfig.json
+/home/jeffreyj/RiderProjects/Kampİntro/Collections/bin/Debug/net5.0/Collections.runtimeconfig.dev.json
+/home/jeffreyj/RiderProjects/Kampİntro/Collections/bin/Debug/net5.0/Collections.dll
+/home/jeffreyj/RiderProjects/Kampİntro/Collections/bin/Debug/net5.0/ref/Collections.dll
+/home/jeffreyj/RiderProjects/Kampİntro/Collections/bin/Debug/net5.0/Collections.pdb
+/home/jeffreyj/RiderProjects/Kampİntro/Collections/obj/Debug/net5.0/Collections.csprojAssemblyReference.cache
+/home/jeffreyj/RiderProjects/Kampİntro/Collections/obj/Debug/net5.0/Collections.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeffreyj/RiderProjects/Kampİntro/Collections/obj/Debug/net5.0/Collections.AssemblyInfoInputs.cache
+/home/jeffreyj/RiderProjects/Kampİntro/Collections/obj/Debug/net5.0/Collections.AssemblyInfo.cs
+/home/jeffreyj/RiderProjects/Kampİntro/Collections/obj/Debug/net5.0/Collections.csproj.CoreCompileInputs.cache
+/home/jeffreyj/RiderProjects/Kampİntro/Collections/obj/Debug/net5.0/Collections.dll
+/home/jeffreyj/RiderProjects/Kampİntro/Collections/obj/Debug/net5.0/ref/Collections.dll
+/home/jeffreyj/RiderProjects/Kampİntro/Collections/obj/Debug/net5.0/Collections.pdb
+/home/jeffreyj/RiderProjects/Kampİntro/Collections/obj/Debug/net5.0/Collections.genruntimeconfig.cache
