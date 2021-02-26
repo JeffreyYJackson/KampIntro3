@@ -1,0 +1,16 @@
+/home/jeffreyj/RiderProjects/Kampİntro/GenericsIntro/bin/Debug/net5.0/GenericsIntro
+/home/jeffreyj/RiderProjects/Kampİntro/GenericsIntro/bin/Debug/net5.0/GenericsIntro.deps.json
+/home/jeffreyj/RiderProjects/Kampİntro/GenericsIntro/bin/Debug/net5.0/GenericsIntro.runtimeconfig.json
+/home/jeffreyj/RiderProjects/Kampİntro/GenericsIntro/bin/Debug/net5.0/GenericsIntro.runtimeconfig.dev.json
+/home/jeffreyj/RiderProjects/Kampİntro/GenericsIntro/bin/Debug/net5.0/GenericsIntro.dll
+/home/jeffreyj/RiderProjects/Kampİntro/GenericsIntro/bin/Debug/net5.0/ref/GenericsIntro.dll
+/home/jeffreyj/RiderProjects/Kampİntro/GenericsIntro/bin/Debug/net5.0/GenericsIntro.pdb
+/home/jeffreyj/RiderProjects/Kampİntro/GenericsIntro/obj/Debug/net5.0/GenericsIntro.csprojAssemblyReference.cache
+/home/jeffreyj/RiderProjects/Kampİntro/GenericsIntro/obj/Debug/net5.0/GenericsIntro.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeffreyj/RiderProjects/Kampİntro/GenericsIntro/obj/Debug/net5.0/GenericsIntro.AssemblyInfoInputs.cache
+/home/jeffreyj/RiderProjects/Kampİntro/GenericsIntro/obj/Debug/net5.0/GenericsIntro.AssemblyInfo.cs
+/home/jeffreyj/RiderProjects/Kampİntro/GenericsIntro/obj/Debug/net5.0/GenericsIntro.csproj.CoreCompileInputs.cache
+/home/jeffreyj/RiderProjects/Kampİntro/GenericsIntro/obj/Debug/net5.0/GenericsIntro.dll
+/home/jeffreyj/RiderProjects/Kampİntro/GenericsIntro/obj/Debug/net5.0/ref/GenericsIntro.dll
+/home/jeffreyj/RiderProjects/Kampİntro/GenericsIntro/obj/Debug/net5.0/GenericsIntro.pdb
+/home/jeffreyj/RiderProjects/Kampİntro/GenericsIntro/obj/Debug/net5.0/GenericsIntro.genruntimeconfig.cache
