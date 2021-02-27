@@ -1,6 +1,6 @@
 namespace OOP3
 {
-    interface IKrediManager
+    public interface IKrediManager
     {
         void Hesapla();
         void BiseyYap();
