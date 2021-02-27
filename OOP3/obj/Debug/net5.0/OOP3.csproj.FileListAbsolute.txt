@@ -1,0 +1,16 @@
+/home/jeffreyj/RiderProjects/Kampİntro/OOP3/bin/Debug/net5.0/OOP3
+/home/jeffreyj/RiderProjects/Kampİntro/OOP3/bin/Debug/net5.0/OOP3.deps.json
+/home/jeffreyj/RiderProjects/Kampİntro/OOP3/bin/Debug/net5.0/OOP3.runtimeconfig.json
+/home/jeffreyj/RiderProjects/Kampİntro/OOP3/bin/Debug/net5.0/OOP3.runtimeconfig.dev.json
+/home/jeffreyj/RiderProjects/Kampİntro/OOP3/bin/Debug/net5.0/OOP3.dll
+/home/jeffreyj/RiderProjects/Kampİntro/OOP3/bin/Debug/net5.0/ref/OOP3.dll
+/home/jeffreyj/RiderProjects/Kampİntro/OOP3/bin/Debug/net5.0/OOP3.pdb
+/home/jeffreyj/RiderProjects/Kampİntro/OOP3/obj/Debug/net5.0/OOP3.csprojAssemblyReference.cache
+/home/jeffreyj/RiderProjects/Kampİntro/OOP3/obj/Debug/net5.0/OOP3.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeffreyj/RiderProjects/Kampİntro/OOP3/obj/Debug/net5.0/OOP3.AssemblyInfoInputs.cache
+/home/jeffreyj/RiderProjects/Kampİntro/OOP3/obj/Debug/net5.0/OOP3.AssemblyInfo.cs
+/home/jeffreyj/RiderProjects/Kampİntro/OOP3/obj/Debug/net5.0/OOP3.csproj.CoreCompileInputs.cache
+/home/jeffreyj/RiderProjects/Kampİntro/OOP3/obj/Debug/net5.0/OOP3.dll
+/home/jeffreyj/RiderProjects/Kampİntro/OOP3/obj/Debug/net5.0/ref/OOP3.dll
+/home/jeffreyj/RiderProjects/Kampİntro/OOP3/obj/Debug/net5.0/OOP3.pdb
+/home/jeffreyj/RiderProjects/Kampİntro/OOP3/obj/Debug/net5.0/OOP3.genruntimeconfig.cache
