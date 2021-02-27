@@ -1,5 +1,8 @@
 ﻿using System;
 
+
+
+
 namespace GenericsIntro
 {
     class Program
