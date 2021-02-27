@@ -1,0 +1,16 @@
+/home/jeffreyj/RiderProjects/Kampİntro/MyDict/bin/Debug/net5.0/MyDict
+/home/jeffreyj/RiderProjects/Kampİntro/MyDict/bin/Debug/net5.0/MyDict.deps.json
+/home/jeffreyj/RiderProjects/Kampİntro/MyDict/bin/Debug/net5.0/MyDict.runtimeconfig.json
+/home/jeffreyj/RiderProjects/Kampİntro/MyDict/bin/Debug/net5.0/MyDict.runtimeconfig.dev.json
+/home/jeffreyj/RiderProjects/Kampİntro/MyDict/bin/Debug/net5.0/MyDict.dll
+/home/jeffreyj/RiderProjects/Kampİntro/MyDict/bin/Debug/net5.0/ref/MyDict.dll
+/home/jeffreyj/RiderProjects/Kampİntro/MyDict/bin/Debug/net5.0/MyDict.pdb
+/home/jeffreyj/RiderProjects/Kampİntro/MyDict/obj/Debug/net5.0/MyDict.csprojAssemblyReference.cache
+/home/jeffreyj/RiderProjects/Kampİntro/MyDict/obj/Debug/net5.0/MyDict.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeffreyj/RiderProjects/Kampİntro/MyDict/obj/Debug/net5.0/MyDict.AssemblyInfoInputs.cache
+/home/jeffreyj/RiderProjects/Kampİntro/MyDict/obj/Debug/net5.0/MyDict.AssemblyInfo.cs
+/home/jeffreyj/RiderProjects/Kampİntro/MyDict/obj/Debug/net5.0/MyDict.csproj.CoreCompileInputs.cache
+/home/jeffreyj/RiderProjects/Kampİntro/MyDict/obj/Debug/net5.0/MyDict.dll
+/home/jeffreyj/RiderProjects/Kampİntro/MyDict/obj/Debug/net5.0/ref/MyDict.dll
+/home/jeffreyj/RiderProjects/Kampİntro/MyDict/obj/Debug/net5.0/MyDict.pdb
+/home/jeffreyj/RiderProjects/Kampİntro/MyDict/obj/Debug/net5.0/MyDict.genruntimeconfig.cache
