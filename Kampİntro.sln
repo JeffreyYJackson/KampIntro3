@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDict", "MyDict\MyDict.csproj", "{6D63E6A0-2A9B-47A3-BB81-9E9A0F2DBFDB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{60BF7F7C-B425-416F-A6A7-4771BFC3A07C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{6D63E6A0-2A9B-47A3-BB81-9E9A0F2DBFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D63E6A0-2A9B-47A3-BB81-9E9A0F2DBFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D63E6A0-2A9B-47A3-BB81-9E9A0F2DBFDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60BF7F7C-B425-416F-A6A7-4771BFC3A07C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60BF7F7C-B425-416F-A6A7-4771BFC3A07C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60BF7F7C-B425-416F-A6A7-4771BFC3A07C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60BF7F7C-B425-416F-A6A7-4771BFC3A07C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
