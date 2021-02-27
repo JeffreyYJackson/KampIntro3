@@ -2,8 +2,8 @@ namespace MyDict
 {
     public class MyDictionary<TKey, TValue>
     {
-        private TKey[] _keys;
-        private TValue[] _values;
+        public TKey[] _keys;
+        public TValue[] _values;
         
         private TKey[] _tempKeys;
         private TValue[] _tempValues;
@@ -17,7 +17,21 @@ namespace MyDict
         
         public void Add(TKey key, TValue value)
         {
-            
+            _tempKeys = _keys;
+            _tempValues = _values;
+
+            _keys = new TKey[_tempKeys.Length + 1];
+            _values = new TValue[_tempValues.Length + 1];
+            for (int i = 0; i < _tempKeys.Length; i++)
+            {
+                _keys[i] = _tempKeys[i];
+                _values[i] = _tempValues[i];
+            }
+
+            _keys[_keys.Length - 1] = key;
+            _values[_values.Length - 1] = value;
         }
+
+        
     }
 }
