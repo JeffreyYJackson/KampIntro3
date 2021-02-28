@@ -5,18 +5,18 @@ namespace GameSystem
 {
     public class SalesManager
     {
-        public void Add()
+        public void Add(Sale sale)
         {
             Console.WriteLine("Sale added");
         }
         
 
-        public void Update()
+        public void Update(Sale sale)
         {
             Console.WriteLine("Sale updated");
         }
 
-        public void Remove()
+        public void Remove(Sale sale)
         {
             Console.WriteLine("Sale removed");
         }
