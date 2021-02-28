@@ -1,0 +1,16 @@
+/home/jeffreyj/RiderProjects/Kampİntro/Strubucks/bin/Debug/net5.0/Strubucks
+/home/jeffreyj/RiderProjects/Kampİntro/Strubucks/bin/Debug/net5.0/Strubucks.deps.json
+/home/jeffreyj/RiderProjects/Kampİntro/Strubucks/bin/Debug/net5.0/Strubucks.runtimeconfig.json
+/home/jeffreyj/RiderProjects/Kampİntro/Strubucks/bin/Debug/net5.0/Strubucks.runtimeconfig.dev.json
+/home/jeffreyj/RiderProjects/Kampİntro/Strubucks/bin/Debug/net5.0/Strubucks.dll
+/home/jeffreyj/RiderProjects/Kampİntro/Strubucks/bin/Debug/net5.0/ref/Strubucks.dll
+/home/jeffreyj/RiderProjects/Kampİntro/Strubucks/bin/Debug/net5.0/Strubucks.pdb
+/home/jeffreyj/RiderProjects/Kampİntro/Strubucks/obj/Debug/net5.0/Strubucks.csprojAssemblyReference.cache
+/home/jeffreyj/RiderProjects/Kampİntro/Strubucks/obj/Debug/net5.0/Strubucks.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeffreyj/RiderProjects/Kampİntro/Strubucks/obj/Debug/net5.0/Strubucks.AssemblyInfoInputs.cache
+/home/jeffreyj/RiderProjects/Kampİntro/Strubucks/obj/Debug/net5.0/Strubucks.AssemblyInfo.cs
+/home/jeffreyj/RiderProjects/Kampİntro/Strubucks/obj/Debug/net5.0/Strubucks.csproj.CoreCompileInputs.cache
+/home/jeffreyj/RiderProjects/Kampİntro/Strubucks/obj/Debug/net5.0/Strubucks.dll
+/home/jeffreyj/RiderProjects/Kampİntro/Strubucks/obj/Debug/net5.0/ref/Strubucks.dll
+/home/jeffreyj/RiderProjects/Kampİntro/Strubucks/obj/Debug/net5.0/Strubucks.pdb
+/home/jeffreyj/RiderProjects/Kampİntro/Strubucks/obj/Debug/net5.0/Strubucks.genruntimeconfig.cache

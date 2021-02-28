@@ -1,3 +1,5 @@
+using System;
+
 namespace Strubucks
 {
     public class StarbucksCUstomerManager:BaseCustomerManager
@@ -11,13 +13,18 @@ namespace Strubucks
 
         public override void Save(Customer customer)
         {
-            CheckIfRealPerson(customer);
-            base.Save(customer);
-        }
-
-        private void CheckIfRealPerson(Customer customer)
-        {
+            if (_personCheckService.CheckIfRealPerson(customer) )
+            {
+                base.Save(customer);
+            }
+            else
+            {
+                throw new Exception("Not a valid customer");
+            }
+            
             
         }
+
+        
     }
 }
