@@ -1,0 +1,16 @@
+/home/jeffreyj/RiderProjects/Kampİntro/GameSystem/bin/Debug/net5.0/GameSystem
+/home/jeffreyj/RiderProjects/Kampİntro/GameSystem/bin/Debug/net5.0/GameSystem.deps.json
+/home/jeffreyj/RiderProjects/Kampİntro/GameSystem/bin/Debug/net5.0/GameSystem.runtimeconfig.json
+/home/jeffreyj/RiderProjects/Kampİntro/GameSystem/bin/Debug/net5.0/GameSystem.runtimeconfig.dev.json
+/home/jeffreyj/RiderProjects/Kampİntro/GameSystem/bin/Debug/net5.0/GameSystem.dll
+/home/jeffreyj/RiderProjects/Kampİntro/GameSystem/bin/Debug/net5.0/ref/GameSystem.dll
+/home/jeffreyj/RiderProjects/Kampİntro/GameSystem/bin/Debug/net5.0/GameSystem.pdb
+/home/jeffreyj/RiderProjects/Kampİntro/GameSystem/obj/Debug/net5.0/GameSystem.csprojAssemblyReference.cache
+/home/jeffreyj/RiderProjects/Kampİntro/GameSystem/obj/Debug/net5.0/GameSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeffreyj/RiderProjects/Kampİntro/GameSystem/obj/Debug/net5.0/GameSystem.AssemblyInfoInputs.cache
+/home/jeffreyj/RiderProjects/Kampİntro/GameSystem/obj/Debug/net5.0/GameSystem.AssemblyInfo.cs
+/home/jeffreyj/RiderProjects/Kampİntro/GameSystem/obj/Debug/net5.0/GameSystem.csproj.CoreCompileInputs.cache
+/home/jeffreyj/RiderProjects/Kampİntro/GameSystem/obj/Debug/net5.0/GameSystem.dll
+/home/jeffreyj/RiderProjects/Kampİntro/GameSystem/obj/Debug/net5.0/ref/GameSystem.dll
+/home/jeffreyj/RiderProjects/Kampİntro/GameSystem/obj/Debug/net5.0/GameSystem.pdb
+/home/jeffreyj/RiderProjects/Kampİntro/GameSystem/obj/Debug/net5.0/GameSystem.genruntimeconfig.cache

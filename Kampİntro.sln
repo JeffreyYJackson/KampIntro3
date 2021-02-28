@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strubucks", "Strubucks\Strubucks.csproj", "{A6EE0EAA-8E95-4B7A-BB01-12FBEDAAEE55}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameSystem", "GameSystem\GameSystem.csproj", "{A14E0039-E0BE-4FC4-B856-4B5337C16D02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +92,9 @@ Global
 		{A6EE0EAA-8E95-4B7A-BB01-12FBEDAAEE55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6EE0EAA-8E95-4B7A-BB01-12FBEDAAEE55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6EE0EAA-8E95-4B7A-BB01-12FBEDAAEE55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A14E0039-E0BE-4FC4-B856-4B5337C16D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A14E0039-E0BE-4FC4-B856-4B5337C16D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A14E0039-E0BE-4FC4-B856-4B5337C16D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A14E0039-E0BE-4FC4-B856-4B5337C16D02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
